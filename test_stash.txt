@@ -1,1 +1,6 @@
 this is a file to test stash 1446
+<<<<<<< Updated upstream
+=======
+
+modify and stashed by yjy 1507
+>>>>>>> Stashed changes
