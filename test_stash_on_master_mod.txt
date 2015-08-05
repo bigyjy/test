@@ -1,3 +1,0 @@
-this is a test file to
-test when modify file on other branch
-and stashed ,how to merge and pull/push
